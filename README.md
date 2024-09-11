@@ -5,7 +5,7 @@ Description
 A CMS-style blog site where developers can publish their blog posts and comment on other developers' posts. Built with Handlebars.js, Sequelize, and Express.js, following the MVC paradigm.
 
 Github Repo: https://github.com/aadiaz10/Tech-Blog
-Render Deployed:
+Render Deployed: https://dashboard.render.com/web/srv-crgl4sbv2p9s73ad5tpg/deploys/dep-crgl4sbv2p9s73ad5tr0
 
 Install dependencies:
 bash
